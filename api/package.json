@@ -1,13 +1,13 @@
 {
-  "name": "serve-node",
+  "name": "blog-api",
   "version": "1.0.0",
   "description": "",
-  "main": "app/app.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "",
+  "author": "Dariusz Piwko",
   "license": "ISC",
   "dependencies": {
     "babel-core": "6.26.3",
@@ -30,3 +30,4 @@
     "nodemon": "^2.0.7"
   }
 }
+
